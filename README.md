@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a beginner coder studying at ITM Skills Univer
 I’m looking to connect with fellow learners and experienced developers. Any advice, mentorship, or collaboration opportunities are welcome!
 
 ## 📫 Contact Me
-- Email: [chaitanyashirsat68@gmail.com](mailto:chaitanyashirsat68@gmail.com)
+- Email: [chaitanyashirsat62@gmail.com](mailto:chaitanyashirsat68@gmail.com)
 - LinkedIn: [Chaitanya Shirsat](www.linkedin.com/in/chaitanyashirsat-dev)
 
 ## 🌟 Fun Fact
