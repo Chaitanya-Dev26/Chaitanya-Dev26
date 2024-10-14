@@ -16,6 +16,9 @@ Welcome to my GitHub profile! I'm a beginner coder studying at ITM Skills Univer
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   </p>
+  
+<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=Chaitanya-Dev26"/>
+
 
 ## 🤝 Let's Connect!
 I’m looking to connect with fellow learners and experienced developers. Any advice, mentorship, or collaboration opportunities are welcome!
