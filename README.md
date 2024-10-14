@@ -23,11 +23,13 @@ I’m looking to connect with fellow learners and experienced developers. Any ad
 ## 📫 Contact Me   
 
 <p align="left">
-<a href="https://twitter.com/hello_chaitanya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hello_chaitanya" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chaitanyashirsat-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chaitanyashirsat-dev" height="30" width="40" /></a>
-<a href="mailto:your-email@gmail.com">
-  <img src="https://pngtree.com/freepng/google-email-mailbox-icon-vector_12256703.html" alt="Icon" style="width:100px;height:100px;">
-</a>
+  <a href="mailto:chaitanyashirsat26@gmail.com">
+    <img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="Gmail Icon" style="width:40px;height:30px;margin-right:10px;">
+  </a><a href="https://linkedin.com/in/chaitanyashirsat-dev" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Icon" height="30" width="40" style="margin-right:10px;" />
+  </a><a href="https://twitter.com/hello_chaitanya" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter Icon" height="30" width="40" />
+  </a>
 </p>
 
 ## 🌟 Fun Fact
