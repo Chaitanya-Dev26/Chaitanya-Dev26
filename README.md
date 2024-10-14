@@ -34,6 +34,8 @@ I’m looking to connect with fellow learners and experienced developers. Any ad
   </a>
 </p>
 
-
 ## 🌟 Fun Fact
-When I’m not coding, I enjoy playing football!
+When I’m not coding, I enjoy playing football! ⚽️
+
+
+
