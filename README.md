@@ -5,8 +5,6 @@ Welcome to my GitHub profile! I'm a beginner coder studying at ITM Skills Univer
 
 <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=Chaitanya-Dev26"/>
 
-## <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="25px" style="vertical-align:"> Currently Learning
-
 **Languages:**
   <p>
     <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
