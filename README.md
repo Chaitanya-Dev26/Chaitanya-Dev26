@@ -25,6 +25,9 @@ I’m looking to connect with fellow learners and experienced developers. Any ad
 <p align="left">
 <a href="https://twitter.com/hello_chaitanya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hello_chaitanya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chaitanyashirsat-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chaitanyashirsat-dev" height="30" width="40" /></a>
+<a href="mailto:your-email@gmail.com">
+  <img src="https://pngtree.com/freepng/google-email-mailbox-icon-vector_12256703.html" alt="Icon" style="width:100px;height:100px;">
+</a>
 </p>
 
 ## 🌟 Fun Fact
