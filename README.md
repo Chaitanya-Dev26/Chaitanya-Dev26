@@ -1,7 +1,7 @@
 # Hi there! I'm Chaitanya <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-Welcome to my GitHub profile! I'm a beginner coder studying at ITM Skills University. I'm excited to explore the world of programming, and I love problem-solving and creativity. I’m eager to learn and grow in this field.
+Welcome to my GitHub profile! I'm a beginner coder excited to explore the world of programming, and I love problem-solving and creativity. I’m eager to learn and grow in this field.
 
 ## <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="25px" style="vertical-align:"> Currently Learning
 
