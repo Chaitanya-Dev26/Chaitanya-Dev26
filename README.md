@@ -19,8 +19,6 @@ Welcome to my GitHub profile! I'm a beginner coder studying at ITM Skills Univer
   
 <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=Chaitanya-Dev26"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanya-Dev26)](https://github.com/Chaitanya-Dev26/github-readme-stats)
-
 ## 🤝 Let's Connect!
 I’m looking to connect with fellow learners and experienced developers. Any advice, mentorship, or collaboration opportunities are welcome!
 
