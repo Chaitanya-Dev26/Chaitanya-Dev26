@@ -3,7 +3,7 @@
 
 Welcome to my GitHub profile! I'm a beginner coder studying at ITM Skills University. I'm excited to explore the world of programming, and I love problem-solving and creativity. I’m eager to learn and grow in this field.
 
-<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=Chaitanya-Dev26"/>
+## <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="25px" style="vertical-align:"> Currently Learning
 
 **Languages:**
   <p>
