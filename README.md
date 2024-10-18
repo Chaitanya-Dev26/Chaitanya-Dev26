@@ -20,8 +20,9 @@ Welcome to my GitHub profile! I'm a beginner coder excited to explore the world 
 ## 🤝 Let's Connect!
 I’m looking to connect with fellow learners and experienced developers. Any advice, mentorship, or collaboration opportunities are welcome!
 
-## 📫 Contact Me   
+## 🌐 Socials!
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/chaitanyashirsat-dev)
 <p align="left">
   <a href="mailto:chaitanyashirsat26@gmail.com" style="display:inline-block;">
     <img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="Gmail Icon" style="width:40px;height:30px;margin-right:10px;">
@@ -34,6 +35,8 @@ I’m looking to connect with fellow learners and experienced developers. Any ad
   </a>
 </p>
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ## 🌟 Fun Fact
 When I’m not coding, I enjoy playing football! ⚽️
 
