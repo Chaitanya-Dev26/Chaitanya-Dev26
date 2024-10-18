@@ -22,17 +22,6 @@ I’m looking to connect with fellow learners and experienced developers. Any ad
 
 ## 🌐 Socials!
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://www.discordapp.com/users/568640687285731329) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanyashirsat-dev)
-<p align="left">
-  <a href="mailto:chaitanyashirsat26@gmail.com" style="display:inline-block;">
-    <img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="Gmail Icon" style="width:40px;height:30px;margin-right:10px;">
-  </a>
-  <a href="https://linkedin.com/in/chaitanyashirsat-dev" target="blank" style="display:inline-block;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Icon" height="30" width="40" style="margin-right:10px;" />
-  </a>
-  <a href="https://twitter.com/hello_chaitanya" target="blank" style="display:inline-block;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter Icon" height="30" width="40" />
-  </a>
-</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
