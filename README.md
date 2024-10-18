@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a beginner coder excited to explore the world 
 I’m looking to connect with fellow learners and experienced developers. Any advice, mentorship, or collaboration opportunities are welcome!
 
 ## 🌐 Socials!
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/chaitanya26) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanyashirsat-dev)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](discordapp.com/users/568640687285731329) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanyashirsat-dev)
 <p align="left">
   <a href="mailto:chaitanyashirsat26@gmail.com" style="display:inline-block;">
     <img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="Gmail Icon" style="width:40px;height:30px;margin-right:10px;">
