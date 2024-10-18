@@ -3,6 +3,9 @@
 
 Welcome to my GitHub profile! I'm a beginner coder excited to explore the world of programming, and I love problem-solving and creativity. I’m eager to learn and grow in this field.
 
+## 🌐 Socials!
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://www.discordapp.com/users/568640687285731329) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanyashirsat-dev)
+
 ## <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="25px" style="vertical-align:"> Currently Learning
 
 **Languages:**
@@ -19,9 +22,6 @@ Welcome to my GitHub profile! I'm a beginner coder excited to explore the world 
 
 ## 🤝 Let's Connect!
 I’m looking to connect with fellow learners and experienced developers. Any advice, mentorship, or collaboration opportunities are welcome!
-
-## 🌐 Socials!
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://www.discordapp.com/users/568640687285731329) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanyashirsat-dev)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
