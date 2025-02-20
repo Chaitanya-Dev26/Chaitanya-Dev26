@@ -29,6 +29,8 @@
 ## GitHub Streaks 🔥
 ![Streaks](http://github-readme-streak-stats.herokuapp.com?user=Chaitanya-Dev26&theme=jolly&date_format=j%20M%5B%20Y%5D)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Shlokmonster&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
