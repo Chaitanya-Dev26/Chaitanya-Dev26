@@ -37,8 +37,9 @@
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chaitanya-Dev26&theme=highcontrast&hide_border=true)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/Chaitanya-Dev26ryo-ma&theme=onestar)
+![](https://github-profile-trophy.vercel.app/?username=Chaitanya-Dev26&theme=juicyfresh)
+
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=juicyfresh)
 
 ### Thanks for Visiting my GitHub Profile!
