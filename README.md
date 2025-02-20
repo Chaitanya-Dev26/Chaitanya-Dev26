@@ -40,6 +40,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=Chaitanya-Dev26&theme=juicyfresh)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=juicyfresh)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=matrix)
 
 ### Thanks for Visiting my GitHub Profile!
