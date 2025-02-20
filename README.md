@@ -37,7 +37,7 @@
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chaitanya-Dev26&theme=highcontrast&hide_border=true)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Shlokmonster&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/Chaitanya-Dev26ryo-ma&theme=onestar)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
