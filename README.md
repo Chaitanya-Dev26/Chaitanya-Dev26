@@ -32,7 +32,7 @@
 ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanya-Dev26&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
 
 ## GitHub Streaks 🔥
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chaitanya-Dev26&theme=highcontrast&hide_border=true)
+![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Chaitanya-Dev26&theme=highcontrast&hide_border=true)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Chaitanya-Dev26&theme=juicyfresh)
