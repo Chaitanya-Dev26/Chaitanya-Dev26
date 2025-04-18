@@ -20,7 +20,7 @@
 ![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
 <img src="https://img.shields.io/badge/-React_Native-000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
 
-### **Build Tools**
+#### Build Tools
 <img src="https://img.shields.io/badge/-Vite-000?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Vite">
 
 #### CSS Framework/Library/Pre-processors
