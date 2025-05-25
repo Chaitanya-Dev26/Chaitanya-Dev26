@@ -18,7 +18,12 @@
 
 #### JS Framework/Library
 ![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
 <img src="https://img.shields.io/badge/-React_Native-000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
+
+#### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/-Express-000?style=for-the-badge&logo=express&logoColor=white)
 
 #### Build Tools
 <img src="https://img.shields.io/badge/-Vite-000?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Vite">
@@ -33,7 +38,8 @@
 ![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-000?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 
 #### Web Hosting
-![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
+![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel) 
+![netlify](https://img.shields.io/badge/-netlify-000?style=for-the-badge&logo=netlify) 
 
 #### Package Manager
 ![NPM](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm)
