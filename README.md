@@ -1,13 +1,54 @@
-<h1 align="center"> Hi 👋🏻, I'm Chaitanya Shirsat </br> 
-</h1>
-<p align="center">I love creating new things ⚡</p>
-<p align="center">Turning imagination into reality 🚀</p>
 <p align="center">
-<a href="https://buymeacoffee.com/chaitanyasm" target="_blank"><img alt="" src="https://img.shields.io/badge/Donate-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
- <a href="https://chaitanya-dev.vercel.app" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://x.com/hello_chaitanya?t=1bJxtKuEnsTZAZDsf6fqrw&s=08" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=X&logoColor=ffffff&style=for-the-badge" style="vertical-align:center" /></a> 
-<a href="https://linkedin.com/in/chaitanyashirsat-dev" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://instagram.com/chaitanya_shirsat__" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&pause=1200&color=61DAFB&center=true&vCenter=true&width=800&height=90&lines=Hi%2C+I'm+Chaitanya+Shirsat+👋;Frontend+%26+MERN+Stack+Developer">
+</p>
+
+## About Me
+I’m a **frontend-focused developer** and a **2nd-year student** with experience in **MERN**, who understands modern UI and builds interfaces that look clean, feel intuitive, and actually make sense . I focus on **clean UI, scalable code**, and spend most of my time **building, breaking, fixing, and learning**, while making sure things **don’t break in production (or at least not on the first click)** 😄.
+
+
+## Projects (Pinned Repositories)
+
+> 📌 *Make sure to pin your best projects on GitHub*
+
+- **Examlytics** – Real-time online exam proctoring platform  
+  *(Webcam + screen monitoring, AI-based cheat detection)*
+
+- **Fake Data Generator** – Frontend tool using pure JS logic  
+  *(No external APIs, custom randomization)*
+
+- **Food Service Website** – Business website with quote system  
+  *(React, Tailwind, Framer Motion)*
+
+👉 More projects available in my repositories 👇
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chaitanyadevp&show_icons=true&theme=react" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyadevp&layout=compact&theme=react" height="160"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 Portfolio: https://chaitanyadevp.netlify.app  
+- 💼 LinkedIn: *(add your LinkedIn link here)*  
+- 📧 Email: *(add professional email here)*  
+
+---
+
+## ⚡ Currently Looking For
+
+- Frontend / MERN Stack Internships  
+- Real-world collaborative projects  
+- Opportunities to learn & grow as a developer  
+
+---
+
+⭐ *If you like my work, consider starring my repositories!*  
 
 ## Tech Stack 💻
 #### Languages
