@@ -1,6 +1,10 @@
+<img align="right" src="https://img.shields.io/badge/Profile%20Views-—-0d1117?style=for-the-badge&logo=github&logoColor=61DAFB&labelColor=0d1117" />
+
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&pause=1200&color=61DAFB&center=true&vCenter=true&width=800&height=90&lines=Hi%2C+I'm+Chaitanya+Shirsat+👋;Frontend+%26+MERN+Stack+Developer">
 </p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/chaitanyashirsat-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
   <a href="https://www.instagram.com/chaitanya_shirsat__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
