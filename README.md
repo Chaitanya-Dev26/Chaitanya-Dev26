@@ -19,6 +19,8 @@
 
 - **Examlytics** – AI-powered online exam proctoring platform  
   *(Full-stack system with real-time webcam streaming, screen recording, and automated cheat detection. Includes live admin dashboard and post-exam violation review | React, Node.js, Supabase, WebRTC)*
+- **InSafe Digital Shield** – Smart safety platform for emergencies and community support  
+  *(SOS alerts, live tracking, medical assistance, lost & found system, admin monitoring | React, TypeScript, Node.js, MongoDB, Firebase)*
 
 More projects available in my repositories 👇
 
