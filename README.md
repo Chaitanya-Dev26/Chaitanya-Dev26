@@ -1,5 +1,4 @@
-<img align="right" src="https://img.shields.io/badge/Profile%20Views-—-0d1117?style=for-the-badge&logo=github&logoColor=61DAFB&labelColor=0d1117" />
-
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Chaitanya-Dev26.Chaitanya-Dev26" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&pause=1200&color=61DAFB&center=true&vCenter=true&width=800&height=90&lines=Hi%2C+I'm+Chaitanya+Shirsat+👋;Frontend+%26+MERN+Stack+Developer">
